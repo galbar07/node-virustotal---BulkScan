@@ -56,6 +56,14 @@ npm run package-win
 
 
 
+## Review the results
+
+--------------------------------------------
+
+
+<img style="height=10" src="/Img/result.png">
+
+--------------------------------------------
 
 
 
