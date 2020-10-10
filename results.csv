@@ -1,3 +1,13 @@
-Ip,harmless,malicious,suspicious,country,owner
-8.8.8.8,83,1,0,US,Google LLC
-1.2.3.4,83,2,0,RU,undefined
+Ip,harmless,malicious,suspicious,country,owner,Engine detection
+1.2.3.4,83,2,0,RU,undefined,"Comodo Valkyrie Verdict
+Sucuri SiteCheck
+"
+8.8.8.8,84,1,0,US,Google LLC,"Quick Heal
+"
+104.247.248.129,72,6,0,CA,"TekSavvy Solutions, Inc.","Blueliv
+CRDF
+CyRadar
+Dr.Web
+Forcepoint ThreatSeeker
+Fortinet
+"
